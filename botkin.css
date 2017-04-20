@@ -1,0 +1,42 @@
+body {
+	
+	line-height: 1.5em;
+	font-size:16px;
+	font-family: 'Lato', sans-serif;
+	color:#000;
+	font-weight: normal;
+	background:#fbfbf8;
+
+}
+
+.img-responsive {  display: block;  height: auto;  max-width: 100%; }
+
+img { display:block; height: auto; max-width: 100%; }
+
+.navbar .nav > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* Internet Explorer 7 compatibility */
+}
+
+/*body {
+	
+	line-height: 1.5em;
+	font-size:40px;
+	font-family: 'Lato', sans-serif;
+	color:#000;
+	font-weight: normal;
+	padding-top: 70px;
+}*/
+
+/*.section { 
+	z-index: 1;
+	min-height:420px;
+	width: 100%; 
+	overflow:auto;
+	height:100%;
+	padding-top:100px;
+	padding-bottom:50px; 
+	display:block;
+	top:0;
+	}*/
